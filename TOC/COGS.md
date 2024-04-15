@@ -1,0 +1,17 @@
+# COGS
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| COGS 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%20100.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%20100.png) |  |
+| COGS 101B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%20101B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%20101B.png) |  |
+| COGS 101C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%20101C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%20101C.png) |  |
+| COGS 102A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%20102A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%20102A.png) |  |
+| COGS 107B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%20107B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%20107B.png) |  |
+| COGS 118B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%20118B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%20118B.png) |  |
+| COGS 14A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%2014A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%2014A.png) |  |
+| COGS 15 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%2015.csv) |  |
+| COGS 150 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%20150.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%20150.png) |  |
+| COGS 153 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%20153.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%20153.png) |  |
+| COGS 18 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%2018.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%2018.png) |  |
+| COGS 187A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%20187A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%20187A.png) |  |
+| COGS 20 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/COGS%2020.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/COGS%2020.png) |  |

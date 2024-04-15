@@ -1,0 +1,17 @@
+# MGT
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| MGT 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%20100.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%20100.png) |  |
+| MGT 103 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%20103.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%20103.png) |  |
+| MGT 112 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%20112.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%20112.png) |  |
+| MGT 12 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%2012.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%2012.png) |  |
+| MGT 121A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%20121A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%20121A.png) |  |
+| MGT 131B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%20131B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%20131B.png) |  |
+| MGT 137 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%20137.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%20137.png) |  |
+| MGT 162R | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%20162R.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%20162R.png) |  |
+| MGT 164 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%20164.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%20164.png) |  |
+| MGT 18 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%2018.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%2018.png) |  |
+| MGT 180 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%20180.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%20180.png) |  |
+| MGT 4 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%204.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%204.png) |  |
+| MGT 45 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MGT%2045.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MGT%2045.png) |  |

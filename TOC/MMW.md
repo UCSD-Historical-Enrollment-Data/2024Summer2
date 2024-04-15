@@ -1,0 +1,7 @@
+# MMW
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| MMW 11R | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MMW%2011R.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MMW%2011R.png) |  |
+| MMW 122 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MMW%20122.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MMW%20122.png) |  |
+| MMW 15 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/overall/MMW%2015.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_overall/MMW%2015.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/section/MMW%2015_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_section/MMW%2015_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/section/MMW%2015_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Summer2/main/plot_section/MMW%2015_B.png) |
