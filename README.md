@@ -1,5 +1,5 @@
 # Summer Session 2 2024 Enrollment Data: General Enrollment
-Enrollment data for all undergraduate courses and select graduate courses.
+Enrollment data for S224 for all undergraduate courses and select graduate courses.
 
 [Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/2024Summer2/blob/main/TOC.md)
 
