@@ -23,6 +23,7 @@
 | COMM | [COMM](TOC/COMM.md) |
 | CSE | [CSE](TOC/CSE.md) |
 | DSC | [DSC](TOC/DSC.md) |
+| DSGN | [DSGN](TOC/DSGN.md) |
 | ECE | [ECE](TOC/ECE.md) |
 | ECON | [ECON](TOC/ECON.md) |
 | EDS | [EDS](TOC/EDS.md) |
